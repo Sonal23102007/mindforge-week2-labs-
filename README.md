@@ -33,3 +33,7 @@ Running Python inside a Docker Container is better because:
 - Makes deployment easier and faster
 - Provides isolation from the host operating system
 - Improves reliability and consistency of applications
+## 📘 Assignments
+
+- [Assignment 1 - Analytics](./Assignment_1_Analytics.ipynb)
+- [Assignment 2 - Automation](./Assignment_2_Automation.ipynb)
